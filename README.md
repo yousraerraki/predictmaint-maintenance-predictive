@@ -37,3 +37,9 @@ Placer `DataPiece.csv` (séparateur `;`) dans le même dossier que `app.py`, ou 
 ## Technologies
 
 Python · Pandas · NumPy · Scikit-learn · TensorFlow/Keras · Streamlit · Plotly
+
+## Captures
+
+![Accueil](screenshots/accueil.png)
+![Diagnostic](screenshots/diagnostic.png)
+![Exploration](screenshots/exploration.png)
